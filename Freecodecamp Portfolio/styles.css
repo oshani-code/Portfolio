@@ -1,5 +1,5 @@
 :root{
-    --neutral:#32149bea;
+    --neutral:#0f023dbd;
     --base: aliceblue;
     --neutral-focus: white;
     --primary:  rgb(233, 129, 224);
@@ -152,7 +152,7 @@ h6{
     color: var(--base);
 }
 #contact {
-    background-color: var(--neutral);
+    
     color: var(--base);
     margin-top: 80px;
     margin-bottom: 30px;
